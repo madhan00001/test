@@ -22,17 +22,13 @@
     "express": "^4.21.2",
     "dotenv": "^17.2.3",
     "motion": "^12.23.24"
-  },
+   },
   "devDependencies": {
     "@types/node": "^22.14.0",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "autoprefixer": "^10.4.21",
-<<<<<<< HEAD
     "esbuild": "^0.28.0",
-=======
-    "esbuild": "^0.25.0",
->>>>>>> ebd136669ae4cb5584e92f5b5fe2391f55f930ff
     "tailwindcss": "^4.3.3",
     "tsx": "^4.21.0",
     "typescript": "^7.0.2",
