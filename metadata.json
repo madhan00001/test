@@ -1,0 +1,7 @@
+{
+  "name": "Maddy AI",
+  "description": "An intelligent conversational AI assistant with document RAG knowledge retrieval, real-time streaming, customizable personas, and contextual intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
